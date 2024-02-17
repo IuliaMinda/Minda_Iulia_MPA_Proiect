@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Minda_Iulia_Proiect
+build_property.RootNamespace = Minda_Iulia_Proiect
+build_property.ProjectDir = D:\Iulia\ECTS\Masterat\Anul I\Semestrul I\Medii de programare avansate\Proiect\Minda_Iulia_Proiect\Minda_Iulia_Proiect\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Iulia\ECTS\Masterat\Anul I\Semestrul I\Medii de programare avansate\Proiect\Minda_Iulia_Proiect\Minda_Iulia_Proiect
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Cards/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Cards/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Cards/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZHNcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Cars/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Cars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Cars/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Customers/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Customers/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Rents/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Rents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Rents/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudHNcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Iulia/ECTS/Masterat/Anul I/Semestrul I/Medii de programare avansate/Proiect/Minda_Iulia_Proiect/Minda_Iulia_Proiect/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5ex6kycsf2

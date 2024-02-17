@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Minda_Iulia_Proiect.props" />
+</Project>

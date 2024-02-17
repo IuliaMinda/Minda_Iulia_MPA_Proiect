@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Minda_Iulia_Proiect.props" />
+</Project>
