@@ -3,7 +3,7 @@ using Minda_Iulia_Proiect.Models;
 
 namespace Minda_Iulia_Proiect.Data
 {
-    public class RentalDbContext: DbContext
+    public class RentalDbContext: DbContext 
     {
         public RentalDbContext(DbContextOptions<RentalDbContext> options): base(options)
         {

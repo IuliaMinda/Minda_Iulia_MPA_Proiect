@@ -73,10 +73,10 @@ namespace Minda_Iulia_Proiect.Controllers
         [HttpPost]
         public async Task<IActionResult> Delete(Car viewModel)
         {
-            var card = await dbContext.Cars.AsNoTracking()
+            var car = await dbContext.Cars.AsNoTracking()
                 .FirstOrDefaultAsync(x => x.CarID == viewModel.CarID);
 
-            if (card is not null)
+            if (car is not null)
             {
                 dbContext.Cars.Remove(viewModel);
                 await dbContext.SaveChangesAsync();
