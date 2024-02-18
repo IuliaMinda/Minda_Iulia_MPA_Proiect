@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Minda_Iulia_Proiect.Data;
 using Minda_Iulia_Proiect.Models;
 
 namespace Minda_Iulia_Proiect.Controllers
 {
+    [Authorize]
     public class CarsController : Controller
     {
         private readonly RentalDbContext dbContext;

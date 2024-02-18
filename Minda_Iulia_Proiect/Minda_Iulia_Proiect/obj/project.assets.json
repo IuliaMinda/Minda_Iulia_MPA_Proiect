@@ -4195,11 +4195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Iulia\\ECTS\\Masterat\\Anul I\\Semestrul I\\Medii de programare avansate\\Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect.csproj",
+      "projectUniqueName": "D:\\Iulia\\ECTS\\Masterat\\Anul I\\Semestrul I\\Medii de programare avansate\\Proiect\\Minda_Iulia_MPA_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect.csproj",
       "projectName": "Minda_Iulia_Proiect",
-      "projectPath": "D:\\Iulia\\ECTS\\Masterat\\Anul I\\Semestrul I\\Medii de programare avansate\\Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect.csproj",
+      "projectPath": "D:\\Iulia\\ECTS\\Masterat\\Anul I\\Semestrul I\\Medii de programare avansate\\Proiect\\Minda_Iulia_MPA_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect.csproj",
       "packagesPath": "C:\\Users\\liviu\\.nuget\\packages\\",
-      "outputPath": "D:\\Iulia\\ECTS\\Masterat\\Anul I\\Semestrul I\\Medii de programare avansate\\Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect\\obj\\",
+      "outputPath": "D:\\Iulia\\ECTS\\Masterat\\Anul I\\Semestrul I\\Medii de programare avansate\\Proiect\\Minda_Iulia_MPA_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

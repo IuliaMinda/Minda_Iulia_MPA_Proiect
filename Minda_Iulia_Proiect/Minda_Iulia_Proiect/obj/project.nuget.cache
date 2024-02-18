@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nvlzwNAuj61FnxFQ03adcbbowHelxT9WuXfG9yNafGKtfGScvKTdGJyJVQLmz4zn626eTeDUFGPHi/zvVA9HrQ==",
+  "dgSpecHash": "8A59ZvtIH0QtJJOj7N6k0eVBOGL1Bijc4XgvEAVJWUQQ7Za/dgQKSAkX1LjCdLf5AKSxhYXHpeIImO3bFeARdA==",
   "success": true,
-  "projectFilePath": "D:\\Iulia\\ECTS\\Masterat\\Anul I\\Semestrul I\\Medii de programare avansate\\Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect.csproj",
+  "projectFilePath": "D:\\Iulia\\ECTS\\Masterat\\Anul I\\Semestrul I\\Medii de programare avansate\\Proiect\\Minda_Iulia_MPA_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect\\Minda_Iulia_Proiect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liviu\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\liviu\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
