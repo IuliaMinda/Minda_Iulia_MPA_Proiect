@@ -34,7 +34,7 @@ namespace Minda_Iulia_Proiect.Controllers
             await dbContext.Customers.AddAsync(customer);
             await dbContext.SaveChangesAsync();
 
-            return View();
+            return RedirectToAction("List", "Customers");
         }
 
         [HttpGet]
@@ -64,6 +64,21 @@ namespace Minda_Iulia_Proiect.Controllers
                 customer.FirstName = viewModel.FirstName;
                 customer.LastName = viewModel.LastName;
 
+                await dbContext.SaveChangesAsync();
+            }
+
+            return RedirectToAction("List", "Customers");
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(Customer viewModel)
+        {
+            var customer = await dbContext.Customers.AsNoTracking()
+                .FirstOrDefaultAsync(x => x.CustomerID == viewModel.CustomerID);
+
+            if (customer is not null)
+            {
+                dbContext.Customers.Remove(viewModel);
                 await dbContext.SaveChangesAsync();
             }
 

@@ -36,7 +36,7 @@ namespace Minda_Iulia_Proiect.Controllers
             await dbContext.Rents.AddAsync(rent);
             await dbContext.SaveChangesAsync();
 
-            return View();
+            return RedirectToAction("List", "Rents");
         }
 
         [HttpGet]
@@ -72,6 +72,21 @@ namespace Minda_Iulia_Proiect.Controllers
 
             return RedirectToAction("List", "Rents");
 
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(Rent viewModel)
+        {
+            var rent = await dbContext.Rents.AsNoTracking()
+                .FirstOrDefaultAsync(x => x.RentID == viewModel.RentID);
+
+            if (rent is not null)
+            {
+                dbContext.Rents.Remove(viewModel);
+                await dbContext.SaveChangesAsync();
+            }
+
+            return RedirectToAction("List", "Rents");
         }
     }
 }

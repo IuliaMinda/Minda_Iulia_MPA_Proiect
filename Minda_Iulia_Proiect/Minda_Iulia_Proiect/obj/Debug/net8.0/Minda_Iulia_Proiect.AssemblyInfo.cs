@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Minda_Iulia_Proiect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21edd9c9d477d6ccdd63d09daa51e06961e37784")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d2f17a01f31e950e740fa19bfa8ba2b20107b0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Minda_Iulia_Proiect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Minda_Iulia_Proiect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

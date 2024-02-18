@@ -34,7 +34,7 @@ namespace Minda_Iulia_Proiect.Controllers
             await dbContext.Cars.AddAsync(car);
             await dbContext.SaveChangesAsync();
 
-            return View();
+            return RedirectToAction("List", "Cars");
         }
 
         [HttpGet]
@@ -64,6 +64,21 @@ namespace Minda_Iulia_Proiect.Controllers
                 car.Make = viewModel.Make; 
                 car.Model = viewModel.Model;
 
+                await dbContext.SaveChangesAsync();
+            }
+
+            return RedirectToAction("List", "Cars");
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(Car viewModel)
+        {
+            var card = await dbContext.Cars.AsNoTracking()
+                .FirstOrDefaultAsync(x => x.CarID == viewModel.CarID);
+
+            if (card is not null)
+            {
+                dbContext.Cars.Remove(viewModel);
                 await dbContext.SaveChangesAsync();
             }
 
